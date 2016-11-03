@@ -1,5 +1,5 @@
 #Tic Tac Toe
-I create a Tic Tac Toe game playable from the command line.
+A Tic Tac Toe game playable from the command line.
 ##Instructions
 You can either play from the keyboard (stdin), or play with moves stored in a file.    
 To play, type any of:
